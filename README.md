@@ -216,7 +216,3 @@ flutter run
 | GET | /users.php?current_id=1 | Get all users |
 | GET | /messages.php?sender_id=1&receiver_id=2 | Get messages |
 | POST | /messages.php | Send message |
-
-## Author
-
-AB3288 - https://github.com/AB3288
